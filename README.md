@@ -28,10 +28,17 @@
    sudo emerge --ask sys-apps/xdg-desktop-portal gui-libs/xdg-desktop-portal-wlr gui-apps/wlr-randr gui-apps/foot gui-apps/grim dev-lang/rust sys-auth/seatd dev-libs/libinput x11-libs/libxkbcommon
    ```
    > **Note:** Packages like `noctalia` and `wayland-satellite` are not in the official Portage tree and must be installed manually or via custom overlays.
+   
+   
 **Keybinds**
 super+e open dolphin
 super+t open telegram
 super+z open noctalia settings
 super+b open browser
+
+
+
+
+
 **Preview**
 [![watch preview on my yt channel](https://youtube.com)](https://youtu.be/0MS3WMkaikk?si=ks1QpbyDKYPsp5ay)
