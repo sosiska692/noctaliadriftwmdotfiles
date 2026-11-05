@@ -1,5 +1,5 @@
 # Noctalia DriftWM Dotfiles
- Personal custom configuration for **DriftWM** on **Gentoo Linux**.
+ Personal custom configuration for **DriftWM** on **Gentoo Linux**.(**UNFINISHED**)
 
 ## Environment
 - **OS:** Gentoo Linux
