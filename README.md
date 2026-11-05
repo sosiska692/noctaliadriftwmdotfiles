@@ -1,5 +1,5 @@
 # Noctalia DriftWM Dotfiles
- Personal custom configuration for **DriftWM** on **Gentoo Linux**.(**UNFINISHED**)
+ Personal custom configuration for **DriftWM** on **Gentoo Linux**.
 
 ## Environment
 - **OS:** Gentoo Linux
@@ -20,6 +20,7 @@
    ```bash
    mkdir -p ~/.config
    cp -r driftwm ~/.config/
+   cp -r noctalia ~/.config/
    ```
 
 3. Install the required packages (for Gentoo Linux):
@@ -30,4 +31,4 @@
 
 **Preview**
 
-[![Смотреть превью видео](https://youtube.com)](https://youtu.be/0MS3WMkaikk?si=ks1QpbyDKYPsp5ay)
+[![watch preview on my yt channel](https://youtube.com)](https://youtu.be/0MS3WMkaikk?si=ks1QpbyDKYPsp5ay)
