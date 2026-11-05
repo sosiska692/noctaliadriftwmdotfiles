@@ -1,4 +1,4 @@
-autostart = ["noctalia", "pipewire", "wireplumber", "pipewire-pulse","wlr-randr --output HDMI-A-1 --mode 1920x1080@144"]
+autostart = ["noctalia", "pipewire", "wireplumber", "pipewire-pulse"]
 [keybindings]
 "mod+e" = "spawn dolphin"
 "mod+t" = "spawn telegram-desktop"
