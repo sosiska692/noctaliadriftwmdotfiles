@@ -30,4 +30,4 @@
 
 **Preview**
 
-<video src="./preview.mp4" width="100%" controls autoplay loop muted></video>
+[![Смотреть превью видео](https://youtube.com)](https://youtu.be/0MS3WMkaikk?si=ks1QpbyDKYPsp5ay)
