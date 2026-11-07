@@ -1,6 +1,6 @@
 # im so sorry for config being so so messed up im fixing ts soon. it was generated with driftwm-settings app
 focus_follows_mouse = true
-autostart = ["noctalia", "pipewire", "wireplumber", "pipewire-pulse", "wlr-randr --output HDMI-A-1 --mode 1920x1080@144"]
+autostart = ["noctalia", "pipewire", "wireplumber", "pipewire-pulse"]
 [keybindings]
 "mod+e" = "spawn dolphin"
 "mod+t" = "spawn telegram-desktop"
@@ -9,7 +9,7 @@ autostart = ["noctalia", "pipewire", "wireplumber", "pipewire-pulse", "wlr-randr
 "alt+shift" = "switch-layout next"
 [background]
 type = "wallpaper"
-path = "/home/yanis/.config/driftwm/wallpaper.jpg"
+path = "~/.config/driftwm/wallpaper.jpg"
 [input.keyboard]
 layout = "us,ru"
 variant = ","
