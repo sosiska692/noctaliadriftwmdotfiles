@@ -44,4 +44,4 @@ super+b open browser
 
 
 **Preview**
-<video src="preview2.mp4" width="100%" controls muted autoplay loop></video>
+<video src="https://raw.githubusercontent.com/sosiska692/noctaliadriftwmdotfiles/main/preview2.mp4" width="100%" controls muted autoplay loop></video>
