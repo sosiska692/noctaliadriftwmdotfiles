@@ -21,11 +21,14 @@
    mkdir -p ~/.config
    cp -r driftwm ~/.config/
    cp -r noctalia ~/.config/
+   cp -r foot ~/.config/
+   cp -r qt6ct ~/.config/
+   cp -r qt5ct ~/.config/
    ```
 
 3. Install the required packages (for Gentoo Linux):
    ```bash
-   sudo emerge --ask sys-apps/xdg-desktop-portal gui-libs/xdg-desktop-portal-wlr gui-apps/wlr-randr gui-apps/foot gui-apps/grim dev-lang/rust sys-auth/seatd dev-libs/libinput x11-libs/libxkbcommon
+   sudo emerge --ask sys-apps/xdg-desktop-portal gui-libs/xdg-desktop-portal-wlr gui-apps/wlr-randr gui-apps/foot gui-apps/grim dev-lang/rust sys-auth/seatd dev-libs/libinput x11-libs/libxkbcommon gui-apps/qt6ct
    ```
    > **Note:** Packages like `noctalia` and `wayland-satellite` are not in the official Portage tree and must be installed manually or via custom overlays.
    
