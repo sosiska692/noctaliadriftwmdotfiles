@@ -1,10 +1,11 @@
-autostart = ["noctalia", "pipewire", "wireplumber", "pipewire-pulse"]
+# im so sorry for config being so so messed up im fixing ts soon. it was generated with driftwm-settings app
+focus_follows_mouse = true
+autostart = ["noctalia", "pipewire", "wireplumber", "pipewire-pulse", "wlr-randr --output HDMI-A-1 --mode 1920x1080@144"]
 [keybindings]
 "mod+e" = "spawn dolphin"
 "mod+t" = "spawn telegram-desktop"
 "mod+z" = "spawn noctalia msg settings-toggle"
 "mod+b" = "spawn xdg-open https://"
-# Пример переключения по комбинации Mod + Space (или любой другой удобной вам)
 "alt+shift" = "switch-layout next"
 [background]
 type = "wallpaper"
@@ -12,7 +13,29 @@ path = "/home/yanis/.config/driftwm/wallpaper.jpg"
 [input.keyboard]
 layout = "us,ru"
 variant = ","
+[input.trackpad]
+enable = true
+[input.mouse]
 [decorations]
-default_mode = "none"
-corner_radius = 10
+default_mode = "minimal"
+corner_radius = 19
 border_width = 2
+opacity = 0.800000011920929
+opacity_focused = 1.0
+border_color_focused = "#958AEB"
+border_color = "#564DA7"
+[cursor]
+theme = "breeze_cursors"
+size = 24
+[session]
+[snap]
+gap = 14.0
+distance = 22.0
+[effects]
+[navigation]
+camera_speed = 0.4000000059604645
+[navigation.edge_pan]
+[zoom]
+[xwayland]
+enabled = true
+path = "xwayland-satellite"
