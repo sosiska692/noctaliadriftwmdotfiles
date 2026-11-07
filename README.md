@@ -44,4 +44,4 @@ super+b open browser
 
 
 **Preview**
-[![watch preview on my yt channel](https://youtube.com)](https://youtu.be/0MS3WMkaikk?si=ks1QpbyDKYPsp5ay)
+<video src="preview2.mp4" width="100%" controls muted autoplay loop></video>
